@@ -12,14 +12,14 @@ html, body, .container {
 	font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
 }
 
-#warningDialog{
-display: none;
-}
-
 .h4, h4 {
 	margin-top: 1pt;
 	margin-bottom: 1pt;
 	font-size: 10pt;
+}
+
+#warningDialog {
+	display: none;
 }
 
 .container {
